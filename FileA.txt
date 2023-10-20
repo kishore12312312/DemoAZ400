@@ -1,1 +1,2 @@
 This is file A - New functionality is added.
+I have compoleted the new functionality
